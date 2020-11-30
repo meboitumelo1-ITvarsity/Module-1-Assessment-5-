@@ -1,0 +1,64 @@
+.gallary{
+    width:100%;
+    
+}
+h1{
+    background-color: cornsilk;
+    color:blueviolet;
+    font-size: 150%;
+    
+    
+}h2{
+    
+    
+    font-family: serif;
+    font-style: oblique;
+    color: aqua;
+    content: inherit;
+}
+
+h3{
+    
+    text-align: center;
+    font-size: 30px;
+    color: cornflowerblue;
+    font-style: italic;
+    
+}h4{
+    
+    font-family: impact,fantasy;
+    font-size: 20px;
+    font-style: italic;
+    color: cornflowerblue;
+    
+}
+
+p{
+    font-family: hevetica,sans-serif;
+    
+}
+
+#menu{
+    width: 100%;
+    height: 40px;
+    background-color: cornflowerblue;
+    padding-top: 12px;
+}
+
+#menu a{
+    color: #ffffff;
+    font-family: helvetica,sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: 800px;
+    
+    
+    
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+#menu a:hover{
+    color: #5077bd;
+}
